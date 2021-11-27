@@ -1,0 +1,12 @@
+C:\uai\segundo cuatrimestre\programacion I - Gastón Weingand\PRIMER TP\Garcia Damian 1-E TPN1\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\uai\segundo cuatrimestre\programacion I - Gastón Weingand\PRIMER TP\Garcia Damian 1-E TPN1\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\uai\segundo cuatrimestre\programacion I - Gastón Weingand\PRIMER TP\Garcia Damian 1-E TPN1\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\uai\segundo cuatrimestre\programacion I - Gastón Weingand\PRIMER TP\Garcia Damian 1-E TPN1\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\uai\segundo cuatrimestre\programacion I - Gastón Weingand\PRIMER TP\Garcia Damian 1-E TPN1\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\uai\segundo cuatrimestre\programacion I - Gastón Weingand\PRIMER TP\Garcia Damian 1-E TPN1\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Jesús Sivira\Desktop\Proyectos\Garcia Damian 1-E TPN1\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Jesús Sivira\Desktop\Proyectos\Garcia Damian 1-E TPN1\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Jesús Sivira\Desktop\Proyectos\Garcia Damian 1-E TPN1\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Jesús Sivira\Desktop\Proyectos\Garcia Damian 1-E TPN1\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jesús Sivira\Desktop\Proyectos\Garcia Damian 1-E TPN1\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Jesús Sivira\Desktop\Proyectos\Garcia Damian 1-E TPN1\ClassLibrary\obj\Debug\ClassLibrary.pdb
